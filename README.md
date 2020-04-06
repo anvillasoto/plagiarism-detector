@@ -31,3 +31,7 @@ This project will be broken down into three main notebooks:
 
 Please see the [README](https://github.com/udacity/ML_SageMaker_Studies/tree/master/README.md) in the root directory for instructions on setting up a SageMaker notebook and downloading the project files (as well as the other notebooks).
 
+## Notes from the Implementer:
+
+1. If there are inconsistencies, redundancies or grammatical errors that would affect the score of my submission, please point it out to me judiciously.
+2. This is MY OWN WORK with basis from the course's notebooks, PyTorch forums, StackOverflow answers, Medium posts about binary classification and Udacity's knowledge panel answers. If you think that I did something against the terms of your rules to plagiarism or anything  that is within the Udacity honor code, kindly let me know.
